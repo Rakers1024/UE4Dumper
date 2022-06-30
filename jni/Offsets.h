@@ -262,6 +262,8 @@ namespace Offsets {
             FUObjectArrayToTUObjectArray = 0xB0;
             //Class: TUObjectArray
             TUObjectArrayToNumElements = 0x14;
+            //Class: UWorld
+            UWorldToPersistentLevel = 0x90;
             //Class: ULevel
             ULevelToAActors = 0xA0;
             ULevelToAActorsCount = 0xA8;
